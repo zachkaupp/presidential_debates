@@ -2,7 +2,8 @@
 
 This is meant to be a fun personal project to practice python, matplotlib, and maybe some machine learning.
 
-# todo some of the files indicate speaker with period instead of colon
+# todo some of the files indicate speaker with period instead of colon (10_16_12) (10_13_04) and more
+- find a way to search for the files that have fewer colons
 
 ### Possible sources of error:
 - Some speakers have been given different titles over different debates, and I need to match up different titles to different speakers manually. This is also more difficult because speakers are marked with a ":", and colons are commonly used throughout the entire text.
