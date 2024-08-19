@@ -1,0 +1,3 @@
+https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/presidential-campaigns-debates-and-endorsements-0
+
+https://github.com/stopwords-iso/stopwords-en/blob/master/stopwords-en.txt
